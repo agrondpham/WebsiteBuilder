@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 27, 2014, 4:19:56 PM
+    Author     : Long
+*/
+/**Overwrite**/
+.block2{
+    height: 762px;   
+}
+.sms_area{
+    background: none repeat scroll 0 0 #FCECEC;
+    border: 2px solid;
+    border-radius: 9px;
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+}
+.chatbox_receive{
+    background: none repeat scroll 0 0 #8B0000;
+    border-radius: 10px;
+    color: #FFFFFF;
+    float: left;
+    padding: 10px;
+    width: 300px;
+}
+.chatbox_send{
+    background: none repeat scroll 0 0 #0000FF;
+    border-radius: 10px;
+    clear: both;
+    color: #FFFFFF;
+    float: right;
+    font: inherit;
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+}
+.chatbox_urText{
+    background: none repeat scroll 0 0 #FFFFFF;
+    clear: both;
+    min-height: 50px;
+}
+.sms_reportArea{
+    color: #FFFFFF;
+}
